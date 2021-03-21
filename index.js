@@ -4,3 +4,6 @@ function add() {
 function subtract() {
   subtract = "-";
 }
+function multiply() {
+  multiply = "*";
+}
