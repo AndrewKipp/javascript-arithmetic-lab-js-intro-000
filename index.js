@@ -10,3 +10,6 @@ function multiply() {
 function divide() {
   divide = "/";
 }
+function add(a, b) {
+  return a + b;
+}
