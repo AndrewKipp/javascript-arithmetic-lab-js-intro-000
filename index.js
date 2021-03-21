@@ -7,3 +7,6 @@ function subtract() {
 function multiply() {
   multiply = "*";
 }
+function divide() {
+  divide = "/";
+}
